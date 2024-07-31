@@ -1,0 +1,79 @@
+Front page text:
+
+    At Smash Games, we know that gaming isn't just a hobby – it's a passion. We believe that video games have the power to transport players to new worlds, to tell stories, and to provide an escape from the everyday. That's why we've made it our mission to create high-intensity, action-packed video games that are as immersive as they are thrilling.
+
+    Founded by a team of seasoned game developers and passionate gamers, Smash Games is the result of a shared dream to create games that challenge and excite players. With years of experience in the industry, our team knows what it takes to create games that keep players engaged, and we're committed to bringing that expertise to every game we create.
+
+    At Smash Games, we're driven by a love of gaming and a desire to push the boundaries of what's possible in the industry. Our team is constantly experimenting with new technology and gameplay mechanics, always striving to create games that are as innovative as they are entertaining.
+
+    But at the end of the day, what matters most to us is our players. We're dedicated to creating games that provide an escape, an opportunity to let go of the stresses of daily life and lose oneself in a world of high-octane action and adventure. We believe that gaming is more than just entertainment – it's a way to connect with others, to explore new worlds, and to experience the thrill of the unknown.
+
+    So whether you're a seasoned gamer or new to the world of video games, we invite you to join us on this journey. Let Smash Games take you on an adventure that will leave you breathless and energized – we promise, it'll be an experience you won't soon forget.
+
+System Requirements for All Games:
+
+    Minimum Requirements
+        OS: Win7
+        Processor: Intel I3 or Ryzen 3
+        RAM: 8gb
+        Graphics: Geforce GTX 570
+        Storage: 1gb HDD
+        
+    Recommended Requirements
+        OS: Win11
+        Processor: Intel I9 or Ryzen 7
+        RAM: 16gb
+        Graphics: Geforce RTX 2080
+        Storage: 5gb SSD
+
+Game Descriptions
+
+    Game: Inferno Blast
+    Short Description: Battle your way through an otherworldly realm of fire and brimstone, taking on legions of demons and hellspawn.
+    Long Description: Inferno Blast is an action-packed adventure game that takes players to a fiery realm of danger and excitement. In this game, you'll take on the role of a hero who must navigate through a series of treacherous levels filled with fiery obstacles and hordes of demons. With each level you complete, you'll unlock new weapons and power-ups to help you in your quest to defeat the ultimate demon boss. Can you survive the inferno and emerge victorious?
+    Features:
+        Dynamic Environments: Navigate through a variety of fiery landscapes, including lava pits, crumbling ruins, and demonic strongholds.
+        Upgradable Weapons: Customize your arsenal with a range of weapons and power-ups, including flamethrowers, rocket launchers, and more.
+        Epic Boss Battles: Face off against towering demon bosses, each with their own unique strengths and weaknesses.
+
+
+    Game: Supercharged
+    Short Description: Race your way to victory in a high-speed competition that will test your skills and your nerve.
+    Long Description: Supercharged is a pulse-pounding racing game that challenges players to navigate treacherous tracks and outmaneuver their opponents. Choose from a range of high-performance vehicles and customize them to your liking, then hit the track and show off your driving skills. With realistic physics and cutting-edge graphics, Supercharged is a true test of speed and skill. Can you handle the heat and cross the finish line first?
+    Features:
+        Customizable Cars: Choose from a range of high-performance vehicles and customize them with a variety of parts and upgrades.
+        Multiplayer Racing: Compete against other players in fast-paced online races, or team up with friends to take on cooperative challenges.
+        Exciting Tracks: Race across a variety of tracks, from urban streets to mountain highways, each with their own unique challenges and obstacles.
+
+    Game: Starfighter Assault
+    Short Description: Blast your way through a galaxy of danger and adventure in this epic space shooter.
+    Long Description: Starfighter Assault is a fast-paced space shooter that takes you on a journey through the stars. As a starfighter pilot, it's up to you to defend the galaxy against a horde of alien invaders. With a range of high-tech weapons and an arsenal of power-ups at your disposal, you'll take on enemy ships, asteroid fields, and more in your quest for victory. But be warned – the challenges will only get tougher as you progress through the game. Do you have what it takes to save the galaxy?
+    Features:
+        Intense Space Battles: Take on swarms of enemy ships, dodging asteroids and other obstacles as you blast your way through the galaxy.
+        Upgradeable Spaceships: Customize your ship with a variety of weapons and upgrades, including lasers, missiles, and shields.
+        Immersive Storyline: Discover a rich and engaging storyline as you explore different corners of the galaxy, encountering new characters and challenges along the way.
+
+
+    Game: Shadow Realm
+    Short Description: Explore a dark and mysterious realm of shadows, taking on fearsome monsters and uncovering ancient secrets.
+    Long Description: Shadow Realm is an immersive adventure game that takes players on a journey into a world of darkness and mystery. As a skilled warrior, you'll fight your way through a series of challenging levels, facing off against a variety of terrifying monsters and uncovering ancient secrets. With intricate puzzles, atmospheric environments, and engaging storytelling, Shadow Realm will keep you on the edge of your seat as you explore this shadowy world.
+    Features:
+        Engaging Storyline: Uncover the secrets of the Shadow Realm through a rich and immersive storyline, filled with twists and turns.
+        Stealth Gameplay: Use your stealth skills to evade enemies and sneak past obstacles, taking on enemies from the shadows.
+        Challenging Puzzles: Solve a variety of challenging puzzles, from lock-picking to memory games, as you progress through the game.
+
+    Game: Titan Siege
+    Short Description: Join forces with other players to defend your city against an onslaught of colossal Titans.
+    Long Description: Titan Siege is a multiplayer game that challenges players to band together to defend their city against a wave of enormous Titans. With a range of powerful weapons and special abilities at your disposal, you and your teammates will need to work together to take down these colossal foes. But the Titans won't go down without a fight – each one has its own unique set of strengths and weaknesses that you'll need to discover if you hope to emerge victorious. Will you be able to save your city from destruction?
+    Features:
+        Cooperative Gameplay: Team up with other players to take on the Titans, using teamwork and strategy to bring down these colossal foes.
+        Unique Titans: Each Titan has its own set of strengths and weaknesses, requiring you to use different tactics and strategies to defeat them.
+        Base Building: Build and fortify your city, upgrading your defenses and infrastructure to withstand the Titan onslaught.
+
+    Game: Jungle Expedition
+    Short Description: Embark on a thrilling adventure through the jungle, facing off against dangerous creatures and discovering hidden treasures.
+    Long Description: Jungle Expedition is an action-packed adventure game that takes players on a journey into the heart of the jungle. As a daring explorer, you'll navigate through dense foliage and treacherous terrain, facing off against dangerous creatures and uncovering hidden treasures along the way. With a variety of weapons and power-ups at your disposal, you'll need to use your skills and wits to survive this jungle expedition. Will you be able to uncover the secrets of this mysterious land?
+    Features:
+        Stunning Environments: Explore lush and vibrant jungle environments, filled with exotic creatures and hidden treasures.
+        Dynamic Weather: Experience changing weather patterns, from tropical storms to blazing heat, as you journey through the jungle.
+        Survival Elements: Hunt for food and gather resources to survive in the jungle, avoiding dangerous predators and hostile tribes along the way.
